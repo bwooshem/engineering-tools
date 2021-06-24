@@ -1,6 +1,8 @@
 # engineering-tools
 Useful symbols, code file headers, fancy spreadsheet templates, MATLAB codes, and studyguides designed by an engineering student, for engineering students and practicing engineers.
 
+Creator: Brian Woo-Shem    www.brianwooshem.com
+
 License: All documents, spreadsheets, and studyguides are CC-By Brian Woo-Shem unless otherwise noted. All code is licensed under the GNU General Public License v3.0 unless otherwise noted.
 
 Common_Symbols.txt   No more searching for the degree symbol or that Greek letter in your equation. Simple, unformatted symbols that engineers commonly need. Save this file and copy-paste the symbol you need. Most word processing programs will auto-format the unformatted symbol to match the existing text.
